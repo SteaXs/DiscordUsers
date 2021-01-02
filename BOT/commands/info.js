@@ -32,11 +32,6 @@ module.exports = {
 					.addField('Group ', "``" + rows[0].group + "``")
 					.addField('Job ', "``" + rows[0].job + "``")
 					.addField('Position ', "``" + `X: ${JSON.parse(pos).x} ` + `Y: ${JSON.parse(pos).y} ` + `Z: ${JSON.parse(pos).z}` + "``")
-					.addField('First Name ', "``" + rows[0].firstname + "``")
-					.addField('Last Name ', "``" + rows[0].lastname + "``")
-					.addField('Date Of Birth ', "``" + rows[0].dateofbirth + "``")
-					.addField('Sex ', "``" + rows[0].sex + "``")
-					.addField('Height ', "``" + rows[0].height + " cm``")
 					.addField('Phone Numer ', "``" + rows[0].phone_number + "``")
 					.setFooter('Made by SteaX#0001', "https://media.discordapp.net/attachments/596027347375882240/729463092035190848/Logo1.png?width=676&height=676")
 					message.channel.send(embed);
