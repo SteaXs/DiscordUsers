@@ -4,7 +4,7 @@ module.exports = {
 	db: {
 		host: 'localhost',
 		user: 'root',
-		password: '',
-		database: 'gtavrp'
+		password: 'password',
+		database: 'essentialmode'
 	}
 };
