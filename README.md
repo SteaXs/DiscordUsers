@@ -1,5 +1,5 @@
 # DiscordUsers
-This is a script witch usses fivem script to communicate with your discord client
+This is a script which uses fivem script to communicate with your discord client
 
 # Installation
 1. Download the Files
