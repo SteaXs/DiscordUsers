@@ -23,4 +23,4 @@ This is a script which uses fivem script to communicate with your discord client
 15. type node .
 
 # Warning
-This is ESX only, that means that database supports only ESX doesn't support VRP or any other framework of FiveM
+This is ESX v1.1.0 only, that means that database supports only ESX v1.1.0 doesn't support VRP or any other framework of FiveM
